@@ -16,7 +16,9 @@ As a reader, I want to learn more about the safety of protein supplements that I
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
-> 
+
+![graph](labelled_detected_protein.png)
+
 
 Text here...
 
