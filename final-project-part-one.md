@@ -8,13 +8,17 @@ Through this project, I aim to visualize this alarming research in a way that is
 
 # As a user I want....
 
-As a reader, I want to learn more about the safety of protein supplements that I regularly consume so that I can make the right consumer choices for my health and safety. I can do this by learning more about the QC in different popular supplement brands.
+As a reader, I want to learn more about the safety of protein supplements that I regularly consume so that I can make the right consumer choices for my health and safety. I can do this by learning more about the Quality Control in different popular supplement brands.
 
 
 ## Initial sketches
-The following sketches represent the whey protein usage in India as well as the Differnces that were present between the Labels and detected protein. These are my initial sketches that I plan on using for developing my case.
+The following sketches represent the whey protein usage in India as well as the differences that were present between the Labels and detected protein. These are my initial sketches that I plan on using for developing my case.
+
+(The red bars represent the protein labels that showed the greatest differences)
 
 ![graph](labelled_detected_protein.png)
+
+I have included the second chart to show that the protein market in India is continuously rising. As we can see, a huge number of people are consuming protein, and so a quality control mechanism is indeed essential.
 
 ![graph](whey_usage.png)
 
