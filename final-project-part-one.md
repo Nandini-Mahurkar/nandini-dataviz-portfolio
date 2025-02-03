@@ -1,8 +1,5 @@
 | [home page](https://nandini-mahurkar.github.io/nandini-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 
 My project focuses on addressing the issue of adulteration in growth supplements, with a particular emphasis on the rise of whey protein consumption in India. An independent, self-funded study conducted on protein supplements revealed a disturbing truth: the majority of products did not contain the advertised protein content. In addition to these fraudulent claims, the study uncovered the presence of fungal toxins, heavy metals, and pesticides in several reputed brands.
