@@ -4,16 +4,19 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+My project focuses on addressing the issue of adulteration in growth supplements, with a particular emphasis on the rise of whey protein consumption in India. An independent, self-funded study conducted on protein supplements revealed a disturbing truth: the majority of products did not contain the advertised protein content. In addition to these fraudulent claims, the study uncovered the presence of fungal toxins, heavy metals, and pesticides in several reputed brands.
 
-Text here...
+Through this project, I aim to visualize this alarming research in a way that is easily understandable for the average consumer. It is truly shameful that brands with such low-quality standards often target the active and health-conscious community, deceiving them into purchasing products that are, at best, misleading and, at worst, dangerous to consume.
+
+# As a user I want....
+
+As a reader, I want to learn more about the safety of protein supplements that I regularly consume so that I can make the right consumer choices for my health and safety. I can do this by learning more about the QC in different popular supplement brands.
+
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.
+> 
 
 Text here...
 
