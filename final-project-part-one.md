@@ -19,7 +19,7 @@ As a reader, I want to learn more about the safety of protein supplements that I
 
 ![graph](labelled_detected_protein.png)
 
-
+![graph](whey_usage.png)
 Text here...
 
 # The data
