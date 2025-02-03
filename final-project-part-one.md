@@ -23,25 +23,25 @@ The following sketches represent the whey protein usage in India as well as the 
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+The dataset I used to create the first visualization is sourced from the article "Citizens Protein Project: A self-funded, transparent, and concerning report on analysis of popular protein supplements sold in the Indian market" by Philips et al. (2024). This article contains analysis of the protein market in India. The data is publicly available on the PMC website, and contains details of the differences of labelled and detected protein. I plan to use this article to understand the market trends, and consumer safety issues related to whey protein supplements available in India. This table also has information about the manufacturers, and I plan on using this data to calculate the average differences in the labelled and detected protein percentages.
 
-Text here...
+You can access the dataset from the following link: [Data Source](https://pmc.ncbi.nlm.nih.gov/articles/PMC10994440/figure/SD3/)
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The second visualisation is created using the data I sourced from the _India Whey Protein Market Size, Share & Trends Analysis Report by Grand View Research (2024)_. I used this to showcase the market trends of the protein market in India and the future projected growth of the same.
+
+Additionally, I will create a dataset of most frequently used brands, by distributing a google form. 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|   Difference in Labelled Protein Vs. Detected Protein   |  https://pmc.ncbi.nlm.nih.gov/articles/PMC10994440/figure/SD3/   |     A table highlighting the precentage differences between labelled protein and detected protein       |
+|   Most Frequently Used protein brands   |     |     Will be created later        |
+|   India Whey Protein Market Size & Outlook, 2022-2030   |   https://www.grandviewresearch.com/horizon/outlook/whey-protein-market/india  |        This article contains information about the market trends of the protein market in India     |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan on using Tableau to generate graphs and charts to convey my story. Along with this, I will be creating a Shorthand website to present my findings. I will also use Lucidchart to create rough sketches of my visualisations.
 
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Philips, Cyriac Abby, et al. “Citizens Protein Project: A Self-Funded, Transparent, and Concerning Report on Analysis of Popular Protein Supplements Sold in the Indian Market.” Medicine, vol. 103, no. 14, Apr. 2024, p. e37724. DOI.org (Crossref), https://doi.org/10.1097/MD.0000000000037724.
+
+India Whey Protein Market Size & Outlook, 2030. https://www.grandviewresearch.com/horizon/outlook/whey-protein-market/india. Accessed 2 Feb. 2025.
