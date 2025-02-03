@@ -12,7 +12,7 @@ As a reader, I want to learn more about the safety of protein supplements that I
 
 
 ## Initial sketches
-The following sketches represent the whey protein usage in India as well as the differences that were present between the Labels and detected protein. These are my initial sketches that I plan on using for developing my case.
+The following sketches represent the whey protein usage in India as well as the differences that were present between the labels and the detected protein. These are my initial sketches that I plan on using for developing my case.
 
 (The red bars represent the protein labels that showed the greatest differences)
 
