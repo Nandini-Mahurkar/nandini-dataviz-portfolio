@@ -30,12 +30,9 @@ You can access the dataset from the following link: [Data Source](https://pmc.nc
 
 The second visualisation is created using the data I sourced from the _India Whey Protein Market Size, Share & Trends Analysis Report by Grand View Research (2024)_. I used this to showcase the market trends of the protein market in India and the future projected growth of the same.
 
-Additionally, I will create a dataset of most frequently used brands, by distributing a google form. 
-
 | Name | URL | Description |
 |------|-----|-------------|
 |   Difference in Labelled Protein Vs. Detected Protein   |  https://pmc.ncbi.nlm.nih.gov/articles/PMC10994440/figure/SD3/   |     A table highlighting the precentage differences between labelled protein and detected protein       |
-|   Most Frequently Used protein brands   |     |     Will be created later        |
 |   India Whey Protein Market Size & Outlook, 2022-2030   |   https://www.grandviewresearch.com/horizon/outlook/whey-protein-market/india  |        This article contains information about the market trends of the protein market in India     |
 
 # Method and medium
