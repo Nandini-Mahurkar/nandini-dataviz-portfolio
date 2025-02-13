@@ -41,7 +41,7 @@ What I liked & What stood out:
 
 My approach for the redesign was to make the data easy to read and understand, as the topic is relatable for the general population. So, I first started with the title, as the original one is too vague. I changed it to : Most popular drinks for dates. I want the viewers to trust the data, so I kept the mention of the app Zoosk, and the details of the survey. Next, I replaced the hearts with donut charts, to make it more readable. But, I added a little heart and a bottle icon beside the title to better represent the data visualization. I replaced the side-to-side bar charts, to a grouped bar chart, as the original bars were distracting. They were not sorted in any order, and added to the confusion. I used a blue bar for men and a pink bar for women to make the visualization easier to interpret.
 
-I created this on DataWrapper, and created the heart & bottle icon on Canva. The donut charts were also created using Canva. 
+I created this on DataWrapper, and created the heart & bottle icon on Canva. The donut charts were also created using [Canva](https://www.canva.com/). 
 
 
 ## Step four: Test the solution
@@ -74,7 +74,7 @@ Design Changes I will incorporate:
 
 I decided on a storyline: **Wine vs. Beer: The Gender Showdown in Date Night Drink Choices**. I also removed the donut charts, as they are not relevant to the story anymore. I moved the survey line: "The dating app Zoosk surveyed 8,793 of its members and analyzed 133,175 dating messages" to the bottom, and also added the source. I kept the grouped bar charts and used the same colors, as they got a positive feedback in the interviews. I also kept the heart & bottle icon, as I got positive feedback on it as well. 
 
-I created the visualization on DataWrapper, and created the heart & bottle icon on Canva. 
+I created the visualization on DataWrapper, and created the heart & bottle icon using [Canva](https://www.canva.com/). 
 <hr>
 <iframe title="Wine vs. Beer:
 The Gender Showdown in Date Night Drink Choices" aria-label="Grouped Bars" id="datawrapper-chart-rcW4u" src="https://datawrapper.dwcdn.net/rcW4u/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="644" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
@@ -87,7 +87,5 @@ The Gender Showdown in Date Night Drink Choices" aria-label="Grouped Bars" id="d
 ## References
 Hurzhii, Nataliia. “Drink and Dating Infographics.” Dribbble, https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics.
 
-
-
-
+Heart & bottle icon and donut charts were designed using Canva. Retrieved from [Canva](https://www.canva.com/).
 
