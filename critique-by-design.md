@@ -87,5 +87,5 @@ The Gender Showdown in Date Night Drink Choices" aria-label="Grouped Bars" id="d
 ## References
 Hurzhii, Nataliia. “Drink and Dating Infographics.” Dribbble, https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics.
 
-Heart & bottle icon and donut charts were designed using Canva. Retrieved from [Canva](https://www.canva.com/).
+Heart & bottle icon and donut charts were designed using [Canva](https://www.canva.com/).
 
