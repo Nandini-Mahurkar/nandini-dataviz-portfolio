@@ -30,7 +30,7 @@ The visualization at the first glance is distracting.
 4. Using two bar charts side-by-side is confusing. Instead using a grouped bar chart is better. 
 5. Using different colors for the two genders would be better as we will be able to clearly distinguish between the two.
 6. The bar charts are not sorted properly. The bars should be sorted on either of the two genders, according to the percentages.
-7.The percentages lack a scale, and the differences between the percentages cannot be perceived properly. 
+7. The percentages lack a scale, and the differences between the percentages cannot be perceived properly. 
 
 What I liked & What stood out:
 
@@ -48,24 +48,6 @@ My approach for the redesign was to make the data easy to read and understand, a
 
 
 ## Step four: Test the solution
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 Interview 1: Student, MAM
 Interview 2: Student, MISM & MAM 
