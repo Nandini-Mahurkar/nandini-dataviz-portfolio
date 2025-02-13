@@ -70,6 +70,10 @@ _Include and describe your final solution here. It's also a good idea to summari
 
 I decided on a storyline: **Wine vs. Beer: The Gender Showdown in Date Night Drink Choices**. I also removed the donut charts, as they are not relevant to the story anymore. I moved the survey line: "The dating app Zoosk surveyed 8,793 of its members and analyzed 133,175 dating messages" to the bottom, and also added a source. I kept the grouped bar charts and used the same colors, as they got a positive feedback in the interviews. 
 
+<iframe title="Wine vs. Beer:
+The Gender Showdown in Date Night Drink Choices" aria-label="Grouped Bars" id="datawrapper-chart-rcW4u" src="https://datawrapper.dwcdn.net/rcW4u/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="644" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
 ## References
 _List any references you used here._
 
