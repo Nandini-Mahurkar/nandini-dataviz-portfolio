@@ -79,7 +79,13 @@ The Gender Showdown in Date Night Drink Choices" aria-label="Grouped Bars" id="d
 </script>
 <hr>
 
+[Link to DataWrapper](https://datawrapper.dwcdn.net/rcW4u/5/)
+
 
 ## References
+Hurzhii, Nataliia. “Drink and Dating Infographics.” Dribbble, https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics.
+
+
+
 
 
