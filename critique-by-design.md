@@ -41,6 +41,8 @@ What I liked & What stood out:
 
 My approach for the redesign was to make the data easy to read and understand, as the topic is relatable for the general population. So, I first started with the title, as the original one is too vague. I changed it to : Most popular drinks for dates. I want the viewers to trust the data, so I kept the mention of the app Zoosk, and the details of the survey. Next, I replaced the hearts with donut charts, to make it more readable. But, I added a little heart and a bottle icon beside the title to better represent the data visualization. I replaced the side-to-side bar charts, to a grouped bar chart, as the original bars were distracting. They were not sorted in any order, and added to the confusion. I used a blue bar for men and a pink bar for women to make the visualization easier to interpret.
 
+I created this on DataWrapper, and created the heart & bottle icon on Canva. The donut charts were also created using Canva. 
+
 
 ## Step four: Test the solution
 
@@ -63,8 +65,8 @@ Synthesis:
 The most common feedback was about the percentages next to the donut charts. They were confusing to them, and they felt they did not add much to the story. They also asked me to decide on one story. The potential storylines could be: "Men vs. Women: Drinking Patterns" or "Alcoholic vs. Non-Alcoholic Beverage Consumption." They also asked me to move the survey line to the bottom. Another common suggestion was to cite the source.
 
 Design Changes I will incorporate:
-1. Decide on a storyline.
-2. Shift the survey line to the bottom.
+1. Decide on a storyline
+2. Shift the survey line to the bottom
 3. Change the title
 
 
