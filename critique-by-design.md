@@ -46,9 +46,9 @@ I created this on DataWrapper, and created the heart & bottle icon on Canva. The
 
 ## Step four: Test the solution
 
-Interview 1: Student, MAM
-Interview 2: Student, MISM & MAM
-Interview 3: Student, MISM-BIDA
+Interview 1: Student, MAM <br>
+Interview 2: Student, MISM & MAM <br>
+Interview 3: Student, MISM-BIDA <br> 
 
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
