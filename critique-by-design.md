@@ -1,6 +1,6 @@
 | [home page](https://nandini-mahurkar.github.io/nandini-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Critique by redesign
+# Critique by redesign: Drink & Dating
 
 I have chosen **Drink & Dating** data visualization from MakeoverMonday for this activity. 
 
