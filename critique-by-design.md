@@ -13,6 +13,9 @@ Why I chose this visualisation:
 2. The bar comparison between men and women provides valuable insights, but the graph is challenging to interpret. My goal is to make the visualization clearer and more user friendly.
 3. This visualization has some unclear wording, like the phrase '65% of the USA’s adult populations are drink,' which can be confusing. By critiquing it, I want to make sure the information is clear, accurate, and easy to understand.
 
+Intended Audience:
+The primary audience are the single people who date frequently. If they are bringing something to drink for their dates, they can refer to this chart and decide accordingly. If they are nervous, or want to have something to talk about, they can order a less common drink as a conversation starter. The audience is also the Advertising Companies that market the drinks. They can cater their ads for the drinks by looking at their demographic. Their marketing and sales can greatly benefit from this graphic. This visualization has a heart and a wine bottle at the top. So, we can easily tell that the graphic is about drinking and dating. But, the bar charts require a lot of eye travel, and can easily confuse or overwhelm the users. Although the audience is reached, the data cannot be easily interpreted.
+
 ## Step two: the critique
 
 The visualization at the first glance is distracting. 
@@ -30,6 +33,7 @@ What I liked & What stood out:
 2. Use of a bottle to represent the drinking percentage.
 3. I like the mention of the app 'Zoosk' and the statistics of survey. This makes the viewers believe that the data is reliable. 
 4. Clear and straightforward comparison of the daters with the US population.
+
 
 ## Step three: Sketch a solution
 
@@ -66,12 +70,16 @@ Design Changes I will incorporate:
 
 ## Step five: build the solution
 
-I decided on a storyline: **Wine vs. Beer: The Gender Showdown in Date Night Drink Choices**. I also removed the donut charts, as they are not relevant to the story anymore. I moved the survey line: "The dating app Zoosk surveyed 8,793 of its members and analyzed 133,175 dating messages" to the bottom, and also added a source. I kept the grouped bar charts and used the same colors, as they got a positive feedback in the interviews. I also kept the heart & bottle icon, as I got positive feedback on it. 
-I created the visualization on DataWrapper, and created the heart & bottle icon on canva. 
+I decided on a storyline: **Wine vs. Beer: The Gender Showdown in Date Night Drink Choices**. I also removed the donut charts, as they are not relevant to the story anymore. I moved the survey line: "The dating app Zoosk surveyed 8,793 of its members and analyzed 133,175 dating messages" to the bottom, and also added the source. I kept the grouped bar charts and used the same colors, as they got a positive feedback in the interviews. I also kept the heart & bottle icon, as I got positive feedback on it as well. 
 
+I created the visualization on DataWrapper, and created the heart & bottle icon on Canva. 
+<hr>
 <iframe title="Wine vs. Beer:
 The Gender Showdown in Date Night Drink Choices" aria-label="Grouped Bars" id="datawrapper-chart-rcW4u" src="https://datawrapper.dwcdn.net/rcW4u/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="644" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
+<hr>
+
 
 ## References
+
 
