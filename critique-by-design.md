@@ -56,18 +56,19 @@ Interview 3: Student, MISM-BIDA
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
-The most common feedback was about the percentages next to the donut charts. They were confusing to them, and they felt they did not add much to the story. They also asked me to fix one story. The potential storylines could be: "Men vs. Women: Drinking Patterns" or "Alcoholic vs. Non-Alcoholic Beverage Consumption." They also asked me to move the survey line to the bottom. Another common suggestion was to cite the source.
+The most common feedback was about the percentages next to the donut charts. They were confusing to them, and they felt they did not add much to the story. They also asked me to decide on one story. The potential storylines could be: "Men vs. Women: Drinking Patterns" or "Alcoholic vs. Non-Alcoholic Beverage Consumption." They also asked me to move the survey line to the bottom. Another common suggestion was to cite the source.
 
 Design Changes I will incorporate:
-
-
+1. Decide on a storyline.
+2. Shift the survey line to the bottom.
+3. Change the title
 
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+
+I decided on a storyline: **Wine vs. Beer: The Gender Showdown in Date Night Drink Choices**. I also removed the donut charts, as they are not relevant to the story anymore. I moved the survey line: "The dating app Zoosk surveyed 8,793 of its members and analyzed 133,175 dating messages" to the bottom, and also added a source. I kept the grouped bar charts and used the same colors, as they got a positive feedback in the interviews. 
 
 ## References
 _List any references you used here._
