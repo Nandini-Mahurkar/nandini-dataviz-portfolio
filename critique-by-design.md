@@ -12,7 +12,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-[Click on this link to view the original data visualization!](https://data.world/makeovermonday/2023w34)
+[Click on this link to view the original data visualization!](https://dribbble.com/shots/10539609-Drink-and-Dating-Infographics)
 
 Why I chose this visualisation:
 1. The topic, dating & drinking is relatable for a wide audience, as compared to technical or niche data visualizations. So, my intent is for the general audience to understand and interpret this visualization.
