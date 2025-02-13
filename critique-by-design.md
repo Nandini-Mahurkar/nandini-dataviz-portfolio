@@ -66,17 +66,12 @@ Design Changes I will incorporate:
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
-I decided on a storyline: **Wine vs. Beer: The Gender Showdown in Date Night Drink Choices**. I also removed the donut charts, as they are not relevant to the story anymore. I moved the survey line: "The dating app Zoosk surveyed 8,793 of its members and analyzed 133,175 dating messages" to the bottom, and also added a source. I kept the grouped bar charts and used the same colors, as they got a positive feedback in the interviews. 
+I decided on a storyline: **Wine vs. Beer: The Gender Showdown in Date Night Drink Choices**. I also removed the donut charts, as they are not relevant to the story anymore. I moved the survey line: "The dating app Zoosk surveyed 8,793 of its members and analyzed 133,175 dating messages" to the bottom, and also added a source. I kept the grouped bar charts and used the same colors, as they got a positive feedback in the interviews. I also kept the heart & bottle icon, as I got positive feedback on it. 
+I created the visualization on DataWrapper, and created the heart & bottle icon on canva. 
 
 <iframe title="Wine vs. Beer:
-The Gender Showdown in Date Night Drink Choices" aria-label="Grouped Bars" id="datawrapper-chart-rcW4u" src="https://datawrapper.dwcdn.net/rcW4u/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="644" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+The Gender Showdown in Date Night Drink Choices" aria-label="Grouped Bars" id="datawrapper-chart-rcW4u" src="https://datawrapper.dwcdn.net/rcW4u/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="644" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
 ## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
