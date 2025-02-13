@@ -67,12 +67,19 @@ Results:
 
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
+Interview 1: Student, MAM
+Interview 2: Student, MISM & MAM 
+Interview 3: Student, MISM-BIDA 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+
+| Question | Interview 1 | Interview 2 | Interview 3 |
+|----------|-------------|-------------|-------------|
+| What is this graphic about? | Most popular drinks by gender for dates | Comparison of men's and women's drink preferences on dates| Most popular drinks by gender for dates |  
+| Is there anything you find confusing? | No            | The two percentages next to the donut chart are confusing            | The two percentages next to the donut chart are confusing |
+| Who do you think is the intended audience? |  People who date           | Alcohol companies, advertising companies            | People who date   |
+| Is there anything you would change or do differently? |  No           | Pick one story, and stick to it.            | Remove the percentages next to the donut chart   |
+| Are the colors too overwhelming? |  No           | No            | No   |
+
 
 Synthesis: 
 
