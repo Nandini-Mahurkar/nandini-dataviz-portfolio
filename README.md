@@ -36,14 +36,16 @@ I’m always excited to find better ways to innovate and make a positive impact!
 [Link to my critique by design!](critique-by-design)
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+<!--Here it might be helpful to include a high-level description of your final project. -->
 [Part I](final-project-part-one)
+
+I am still in the process of completing parts 2 and 3 of the project.
+
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
-## References
-
+<!-- ## References
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._ -->
 
