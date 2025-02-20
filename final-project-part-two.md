@@ -15,7 +15,7 @@ I hope to empower these consumers by presenting well-researched insights to make
 These are the people I interviewed:
 
 1. Graduate Student, male, early 20s, goes to the gym, comsumes whey protein
-2. Architect, late 20s, female, goes to the gym, comsumes whey protein
+2. Graduate Student, late 20s, female, goes to the gym, comsumes whey protein
 3. Graduate Student, early 20s, female, goes to the gym, comsumes whey protein
 
 
