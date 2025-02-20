@@ -38,10 +38,9 @@ I’m always excited to find better ways to innovate and make a positive impact!
 ## Final project
 <!--Here it might be helpful to include a high-level description of your final project. -->
 [Part I](final-project-part-one)
-
-I am still in the process of completing parts 2 and 3 of the project.
-
 [Part II](final-project-part-two)
+
+I am still in the process of completing part 3 of the project.
 [Part III](final-project-part-three)
 
 <!-- ## References
