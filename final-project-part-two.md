@@ -66,8 +66,8 @@ Color Scheme changes: Modifying the color scheme, especially for the "Don’t be
 - [Grand View Research - India Whey Protein Market](https://www.grandviewresearch.com/horizon/outlook/whey-protein-market/india)  
 - [Google Trends - Whey Protein in India](https://trends.google.com/trends/explore?date=all&geo=IN&q=whey%20protein&hl=en-US)  
 - [Mordor Intelligence - India Whey Protein Market](https://www.mordorintelligence.com/industry-reports/india-whey-protein-market)  
-- [LWW Journal - Citizens' Protein Project](https://journals.lww.com/md-journal/fulltext/2024/04050/citizens_protein_project__a_self_funded,.15.aspx)  
-- [PubMed Central - Research Figure on Protein Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10994440/figure/SD3/)  
+- [Medicine Journal - Citizens' Protein Project](https://journals.lww.com/md-journal/fulltext/2024/04050/citizens_protein_project__a_self_funded,.15.aspx)  
+- [Research Figure on Protein Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10994440/figure/SD3/)  
 
 
 ## AI acknowledgements
