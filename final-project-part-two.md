@@ -36,10 +36,10 @@ These are the people I interviewed:
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| What is your initial perception of the website? | The data is properly highlighted, research is concise, and graphs are impressive and easy to read compared to websites that contain too much content.           |   The website has presenting everything properly with impressive charts.          | The visualizations are making the content easier to understand than research papers.            |
+| What is your initial perception of the website? | The data is properly highlighted, research is concise, and graphs are impressive and easy to read compared to websites that contain too much content.           |   The website has presented everything properly with impressive charts.          | The visualizations are making the content easy to understand.            |
 | Why do you consume whey protein? What do you expect from this product?        |   The Indian diet consists mainly of carbohydrates, with limited protein. It's difficult to meet daily protein intake and whey protein helps to complete the protein requirement                        | My trainer recommended it, and after trying it, I saw muscle growth. Now, I consume it regularly        |   I go to the gym and need protein for muscle growth. Whey protein is lower in calories compared to other sources of protein.          |
 | Are you aware about the mislabelling of protein content in the products and the hidden additives?                      |     Yes, I am aware. Many affordable Indian products contain poor-quality protein and hidden additives like aflatoxins. Since they are cheap, people prefer to have them. |  Yes. But I wasn't aware of the details.          |   No, I wasn't aware          |
-|  Did my website raise concerns? Was it impactful?                        |    Yes, it grabbed my attention.It was shocking to learn about mislabeling of One Science protein, which I used to consume regularly. It definitely raised concerns.       |  Yes, I already knew about mislabeling, but discovered hidden truths like heavy metals and aflatoxins.          |  Yes.           |
+|  Did my website raise concerns? Was it impactful?                        |    Yes, it grabbed my attention. It was shocking to learn about mislabeling of One Science protein, which I used to consume regularly. It definitely raised concerns.       |  Yes, I already knew about mislabeling, but discovered hidden truths like heavy metals and aflatoxins.          |  Yes.           |
 |  What was difficult to interpret in my website?                       |  Nothing, the bar graphs and charts were engaging. The graphics were concise.    |  The figures had small text that was hard to read.            |    The bar chart with the green color was confusing, especially because it had the "don’t be fooled" label.         |
 |   Did you encounter any sections that were confusing on the website?                             | No, everything was clear.                            |   The section with "don’t be fooled" label     |    The color of the dots in the chart with low heavy metal traces was confusing         |
 |   How effective was the website in making you reconsider your purchasing decisions?            |    Very effective. I used to trust the brand "one science" But after learning about mislabeling, I will reconsider my choices.       | Very effective. Now, I will research before purchasing these products.     |  Extremely effective.  |
@@ -48,7 +48,7 @@ These are the people I interviewed:
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Charts had small text  | Increase the font size of the charts |
+| Text in the charts was small and difficult to read  | Increase the font size of the charts |
 | The "Don't be fooled" label on the green-colored bar chart was confusing to some users         |   Change the color considering the context                                                                              |
 | Low heavy metal traces chart's gradient was confusing                                         |    Change the color considering the context, remove gradient                                                                               |
 
@@ -58,7 +58,7 @@ Based on the feedback, here’s a conclusion of key changes to be made:
 
 Font Size & Clarity: Increasing the font size of charts and ensuring text is visisble in charts/
 
-Color Scheme changes: Modifying the color scheme, especially for the "Don’t be fooled" chart and the chart with low heavy metal traces, will prevent confusion. Changing the color gradients will make the graphs easier to interpret.
+Color Scheme changes: Modifying the color scheme, especially for the "Don’t be fooled" chart and the chart with low heavy metal traces, will prevent confusion. 
 
 # References
 
