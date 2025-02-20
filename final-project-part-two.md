@@ -3,6 +3,7 @@
 # Wireframes / storyboards
 
 I have created a Shorthand website to develop my story. I developed Part 2 based on the Part 1 outline and expanded my story further using Shorthand. The visualizations were designed using Tableau and DataWrapper. 
+
 Here is the preview link: [Shorthand](https://preview.shorthand.com/y6gjleHx7Y6XVFWX)
 
 # User research 
@@ -33,9 +34,7 @@ These are the people I interviewed:
 
 ## Interview findings
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | What is your initial perception of the website? | The data is properly highlighted, research is concise, and graphs are impressive and easy to read compared to websites that contain too much content.           |   The website has presenting everything properly with impressive charts.          | The visualizations are making the content easier to understand than research papers.            |
 | Why do you consume whey protein? What do you expect from this product?        |   The Indian diet consists mainly of carbohydrates, with limited protein. It's difficult to meet daily protein intake and whey protein helps to complete the protein requirement                        | My trainer recommended it, and after trying it, I saw muscle growth. Now, I consume it regularly        |   I go to the gym and need protein for muscle growth. Whey protein is lower in calories compared to other sources of protein.          |
@@ -60,6 +59,16 @@ Based on the feedback, here’s a conclusion of key changes to be made:
 Font Size & Clarity: Increasing the font size of charts and ensuring text is visisble in charts/
 
 Color Scheme changes: Modifying the color scheme, especially for the "Don’t be fooled" chart and the chart with low heavy metal traces, will prevent confusion. Changing the color gradients will make the graphs easier to interpret.
+
+# References
+
+- [Statista - Health & Fitness App Market in India](https://www.statista.com/outlook/amo/app/health-fitness/india#revenue)  
+- [Grand View Research - India Whey Protein Market](https://www.grandviewresearch.com/horizon/outlook/whey-protein-market/india)  
+- [Google Trends - Whey Protein in India](https://trends.google.com/trends/explore?date=all&geo=IN&q=whey%20protein&hl=en-US)  
+- [Mordor Intelligence - India Whey Protein Market](https://www.mordorintelligence.com/industry-reports/india-whey-protein-market)  
+- [LWW Journal - Citizens' Protein Project](https://journals.lww.com/md-journal/fulltext/2024/04050/citizens_protein_project__a_self_funded,.15.aspx)  
+- [PubMed Central - Research Figure on Protein Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC10994440/figure/SD3/)  
+
 
 ## AI acknowledgements
 
