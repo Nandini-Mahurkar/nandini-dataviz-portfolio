@@ -1,7 +1,6 @@
 | [home page](https://nandini-mahurkar.github.io/nandini-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project.
 
 I have created a Shorthand website to develop my story. I developed Part 2 based on the Part 1 outline and expanded my story further using Shorthand. The visualizations were designed using Tableau and DataWrapper. 
 Here is the preview link: [Shorthand](https://preview.shorthand.com/y6gjleHx7Y6XVFWX)
@@ -21,9 +20,6 @@ These are the people I interviewed:
 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -34,10 +30,8 @@ Text here!
 |   Checking effectiveness   |      How effective was the website in making you reconsider your purchasing decisions?  |
 
 
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
@@ -48,34 +42,25 @@ Text here!
 | Are you aware about the mislabelling of protein content in the products and the hidden additives?                      |     Yes, I am aware. Many affordable Indian products contain poor-quality protein and hidden additives like aflatoxins. Since they are cheap, people prefer to have them. |  Yes. But I wasn't aware of the details.          |   No, I wasn't aware          |
 |  Did my website raise concerns? Was it impactful?                        |    Yes, it grabbed my attention.It was shocking to learn about mislabeling of One Science protein, which I used to consume regularly. It definitely raised concerns.       |  Yes, I already knew about mislabeling, but discovered hidden truths like heavy metals and aflatoxins.          |  Yes.           |
 |  What was difficult to interpret in my website?                       |  Nothing, the bar graphs and charts were engaging. The graphics were concise.    |  The figures had small text that was hard to read.            |    The bar chart with the green color was confusing, especially because it had the "don’t be fooled" label.         |
-|   Did you encounter any sections that were confusing on the website?                             | No, everything was clear.                            |   The section with "don’t be fooled" label.     |    No         |
+|   Did you encounter any sections that were confusing on the website?                             | No, everything was clear.                            |   The section with "don’t be fooled" label     |    The color of the dots in the chart with low heavy metal traces was confusing         |
 |   How effective was the website in making you reconsider your purchasing decisions?            |    Very effective. I used to trust the brand "one science" But after learning about mislabeling, I will reconsider my choices.       | Very effective. Now, I will research before purchasing these products.     |  Extremely effective.  |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Charts had small text  | Increase the font size of the charts |
+| The "Don't be fooled" label on the green-colored bar chart was confusing to some users         |   Change the color considering the context                                                                              |
+| Low heavy metal traces chart's gradient was confusing                                         |    Change the color considering the context, remove gradient                                                                               |
 
-> ...include any final thoughts you have here. 
+# Final thoughts
 
-Text here!
+Based on the feedback, here’s a conclusion of key changes to be made:
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+Font Size & Clarity: Increasing the font size of charts and ensuring text is visisble in charts/
 
-Text here!
-
-## References
-_List any references you used here._
+Color Scheme changes: Modifying the color scheme, especially for the "Don’t be fooled" chart and the chart with low heavy metal traces, will prevent confusion. Changing the color gradients will make the graphs easier to interpret.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
+ChatGPT was used to define 'Aflatoxins'.
