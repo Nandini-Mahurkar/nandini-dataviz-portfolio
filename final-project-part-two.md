@@ -62,7 +62,7 @@ Color Scheme changes: Modifying the color scheme, especially for the "Don’t be
 
 # References
 
-- [Statista - Health & Fitness App Market in India](https://www.statista.com/outlook/amo/app/health-fitness/india#revenue)  
+- [Statista - Health & Fitness App Market in India](https://www.statista.com/outlook/amo/app/health-fitness/india#revenue) - Accessed this data before it was restricted behind a paywall.
 - [Grand View Research - India Whey Protein Market](https://www.grandviewresearch.com/horizon/outlook/whey-protein-market/india)  
 - [Google Trends - Whey Protein in India](https://trends.google.com/trends/explore?date=all&geo=IN&q=whey%20protein&hl=en-US)  
 - [Mordor Intelligence - India Whey Protein Market](https://www.mordorintelligence.com/industry-reports/india-whey-protein-market)  
