@@ -4,7 +4,9 @@
 
 I've been hitting the gym for a while and regularly consuming whey protein, but I recently came across a startling truth. 
 
-My story is shedding light on the hidden truths of the Whey Protein Market in India. The Whey Protein market in India is continuously growing. With such high consumption, you would expect these products to be safe right? But a study has uncovered the sad truths of this industry. With my project, I have explained, uncovered visualized these truths. The brands has lesser protein than advertised. It wasn't just this, they also found harmful substances in these products. Please navigate to my website to know more...
+My story is shedding light on the hidden truths of the Whey Protein Market in India. The Whey Protein market in India is continuously growing. With such high consumption, you would expect these products to be safe right? But a study has uncovered the sad truths of this industry. With my project, I have explained, uncovered and visualized these truths. 
+
+The brands had lesser protein than advertised. It wasn't just this, they also found harmful substances in these products. Please navigate to my website to know more...
 
 Link : [My Shorthand Story](https://carnegiemellon.shorthandstories.com/dark-side-of-indias-whey-protein-market/index.html)
 
