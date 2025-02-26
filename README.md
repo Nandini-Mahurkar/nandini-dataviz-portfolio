@@ -36,11 +36,9 @@ I’m always excited to find better ways to innovate and make a positive impact!
 [Link to my critique by design!](critique-by-design)
 
 ## Final project
-<!--Here it might be helpful to include a high-level description of your final project. -->
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-
-I am still in the process of completing part 3 of the project.
 [Part III](final-project-part-three)
 
 <!-- ## References
