@@ -36,8 +36,7 @@ The second visualisation is created using the data I sourced from the _India Whe
 |   India Whey Protein Market Size & Outlook, 2022-2030   |   https://www.grandviewresearch.com/horizon/outlook/whey-protein-market/india  |        This article contains information about the market trends of the protein market in India     |
 
 # Method and medium
-I plan on using Tableau to generate graphs and charts to convey my story. Along with this, I will be creating a Shorthand website to present my findings. I will also use Lucidchart to create rough sketches of my visualisations.
-
+I plan on using Tableau to generate graphs and charts to convey my story. Along with this, I will be creating a Shorthand website to present my findings. 
 ## References
 
 Philips, Cyriac Abby, et al. “Citizens Protein Project: A Self-Funded, Transparent, and Concerning Report on Analysis of Popular Protein Supplements Sold in the Indian Market.” Medicine, vol. 103, no. 14, Apr. 2024, p. e37724. DOI.org (Crossref), https://doi.org/10.1097/MD.0000000000037724.
