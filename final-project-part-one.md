@@ -42,3 +42,8 @@ I plan on using Tableau to generate graphs and charts to convey my story. Along 
 Philips, Cyriac Abby, et al. “Citizens Protein Project: A Self-Funded, Transparent, and Concerning Report on Analysis of Popular Protein Supplements Sold in the Indian Market.” Medicine, vol. 103, no. 14, Apr. 2024, p. e37724. DOI.org (Crossref), https://doi.org/10.1097/MD.0000000000037724.
 
 India Whey Protein Market Size & Outlook, 2030. https://www.grandviewresearch.com/horizon/outlook/whey-protein-market/india. Accessed 2 Feb. 2025.
+
+## AI Acknowledgement
+
+I did not use AI for this assignment.
+
