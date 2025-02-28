@@ -38,8 +38,7 @@ My audience are the individuals who regularly consume whey protein to meet their
 - [Cologne List](https://www.koelnerliste.com/en/product-database)
 
 ## AI acknowledgements
-I did not use AI for this assignment.
-
+ChatGPT was used to define 'Aflatoxins'.
 # Final thoughts
 
 I was aware of this study before starting this project, but through visualizations and research, I uncovered additional truths, such as the presence of harmful substances. Before starting this project, I was only aware of the mislabelling. This experience improved my storytelling skills and helped me in selecting the right protein for myself.
