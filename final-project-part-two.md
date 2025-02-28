@@ -4,7 +4,7 @@
 
 I have created a Shorthand website to develop my story. I developed Part 2 based on the Part 1 outline and expanded my story further using Shorthand. The visualizations were designed using Tableau and DataWrapper. 
 
-Here is the link: [Shorthand]([https://preview.shorthand.com/y6gjleHx7Y6XVFWX](https://carnegiemellon.shorthandstories.com/dark-side-of-indias-whey-protein-market/index.html))
+Here is the link: [Shorthand](https://carnegiemellon.shorthandstories.com/dark-side-of-indias-whey-protein-market/index.html)
 
 # User research 
 
