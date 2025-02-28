@@ -12,6 +12,10 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 <br>
+Source: https://www.simmonsresearch.com/2018/10/03/rise-doubters-consumers-weigh-fake-news-media-trustworthiness/
+The Simmons Research News Media Trust Index was a subset of the Simmons Omnibus Study, fielded from August 14th to August 21st, 2018 with a sample of 2009 online respondents weighted to the US population. The margin of error was ± 2.2%.
+<br>
+
 # Birth rate of females Vs. Life Expectancy <br>
 
 
