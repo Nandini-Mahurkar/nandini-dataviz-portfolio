@@ -1,14 +1,16 @@
 | [home page](https://nandini-mahurkar.github.io/nandini-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
+# The final story: The Dark Side of India's Whey Protein Market
 
-I've been hitting the gym for a while and regularly consuming whey protein, but I recently came across a startling truth. 
+I've been hitting the gym for a while and regularly consuming whey protein, but I recently came across a shocking truth. 
 
-My story is shedding light on the hidden truths of the Whey Protein Market in India. The Whey Protein market in India is continuously growing. With such high consumption, you would expect these products to be safe right? But a study has uncovered the sad truths of this industry. With my project, I have explained, uncovered and visualized these truths. 
+My story is shedding light on the hidden truths of the Whey Protein Market in India. The Whey Protein market in India is continuously growing. With such high consumption, you would expect these products to be safe, right? But a study has uncovered the sad truths of this industry. With my project, I have explained, uncovered and visualized these truths. 
 
-The brands had lesser protein than advertised. It wasn't just this, they also found harmful substances in these products. Please navigate to my website to know more...
+The brands had different protein content than advertised. It wasn't just this, they also found harmful substances in these products. Please navigate to my website to know more...
 
 Link : [My Shorthand Story](https://carnegiemellon.shorthandstories.com/dark-side-of-indias-whey-protein-market/index.html)
+
+Alternate Access Link (If Graphs Fail to Load): [Story](https://preview.shorthand.com/y6gjleHx7Y6XVFWX)
 
 I have pulled my data from the [Citizens Protein Project](https://journals.lww.com/md-journal/fulltext/2024/04050/citizens_protein_project__a_self_funded,.15.aspx) published in the Medicine Journal. I have used Datawrapper & Tableau to create visualizations.
 
