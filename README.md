@@ -37,8 +37,8 @@ I’m always excited to find better ways to innovate and make a positive impact!
 
 ## Final project
 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
+[Part I](final-project-part-one) <br>
+[Part II](final-project-part-two) <br>
 [Part III](final-project-part-three)
 
 <!-- ## References
